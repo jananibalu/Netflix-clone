@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Netflix Websit Clone</title>
   <link rel="stylesheet" href="net.css">
+  <link rel="icon" href="title.png" type="image/x-icon"/>
+
   <style>
     
   </style>
